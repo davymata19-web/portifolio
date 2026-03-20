@@ -27,7 +27,7 @@ Sistema de calculadora com operações básicas via terminal, implementada com u
 https://github.com/davymata19-web/calculadora-equacoes-java
 
 ---
-###🔹Sistema bacario
+### 🔹Sistema bacario
 Programa que simula um sistema de bancocpelo terminal, com menu e funções de deposito, saque e consulta de saldo
 
 🔗
