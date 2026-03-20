@@ -20,6 +20,14 @@ Programa que resolve equações matemáticas.
 
 ---
 
+### 🔹Calculadora com equações
+Sistema de calculadora com operações básicas via terminal, implementada com uma sistema de menu que te permite fazer calculos de equações de primeiro e segundo grau.Umau união dos dois primeiros prohetos de forma atualizada e aprimorada, com menu interativo via terminal. 
+
+🔗
+https://github.com/davymata19-web/calculadora-equacoes-java
+
+---
+
 ## Em aprendizado
 - Java (POO)
 - Estruturas de Dados
